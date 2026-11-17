@@ -1,0 +1,6 @@
+{
+  "name": "GRANOLLOS - المدينة المنورة",
+  "description": "جرانولا طبيعية 100% ومكسرات وتمور محشوة فاخرة مصنوعة بحب في المدينة المنورة مع توصيل سريع وشحن لجميع مدن السعودية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
